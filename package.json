@@ -1,0 +1,24 @@
+{
+  "name": "cellmateapp-table",
+  "version": "1.0.0",
+  "description": "Embed a google sheet in your html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cellmateapp/table.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cellmateapp/table.js/issues"
+  },
+  "homepage": "https://github.com/cellmateapp/table.js#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "gulp-babel": "^7.0.1"
+  }
+}
