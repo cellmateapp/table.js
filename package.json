@@ -1,5 +1,5 @@
 {
-  "name": "table",
+  "name": "@cellmateapp/table",
   "version": "1.0.0",
   "description": "Embed a google sheet in your html",
   "main": "index.js",
