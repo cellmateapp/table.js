@@ -28,6 +28,7 @@ function CellmateTable(node){
     }
   }
   xhr.open("GET", this.url);
+  xhr.setRequestHeader('X-Cellmate-Client', 'cellmateapp/table.js@1.0.3')
   xhr.send();
 }
 
